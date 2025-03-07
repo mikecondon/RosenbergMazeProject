@@ -24,4 +24,8 @@ This repo contains all the data and code needed to reproduce the analysis in the
 
 `Thigmotaxis_analysis.ipynb`: Analysis of wall-following behavior in binary tree maze
 
+`plot_model_findings.py`
 
+`Q_learning_1.py`
+
+`Q_learning_2.py`
