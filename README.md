@@ -20,3 +20,7 @@ This repo contains all the data and code needed to reproduce the analysis in the
 `tree.py`: Code for constructing the BCT model in python, parameterising and inferencing it.
 
 `bayes.py` Code for calculating the posterior probability of changepoint location
+
+### Our contributions
+The following files represent original work developed by group 1D:
+- `Thigmotaxis_analysis.ipynb`: Analysis of wall-following behavior in binary tree maze (by Jake Carr)
